@@ -1,1 +1,1 @@
-# web_lr1
+https://zavalnykt.github.io/web_lr1/
